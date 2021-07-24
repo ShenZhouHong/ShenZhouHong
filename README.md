@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Shen, I'm a Computer Science & Philosophy student.
+My name is Shen. I'm a current Philosophy and Computer Science student.
