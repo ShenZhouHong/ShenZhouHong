@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name is Shen. I'm a current Philosophy and Computer Science student. I'm a passionate, self-directed learner, who always loves reading about exciting happenings in the world of Philosophy and Science. I'm currently working on my studies in Philosophy and Computer Science- there's always so much to learn!
+
+I'm always looking for chats, conversation, and mentorship. Feel free to reach out to me if you want to talk!
