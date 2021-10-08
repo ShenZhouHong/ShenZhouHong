@@ -1,3 +1,5 @@
+![Let's get Philosophical](./intro-banner.png)
+
 ### Hi there, welcome to my Github Profile!
 
 <!--
