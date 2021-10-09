@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Philosophy and Computer Science student, completing a BA in Philosophy at [St. John's College](https://www.sjc.edu/), and a BSc in Computer Science at the [University of London](https://london.ac.uk). Specifically, I am studying:
+I'm a Philosophy and Computer Science student, completing a BA in the Liberal Arts at [St. John's College](https://www.sjc.edu/), and a BSc in Computer Science at the [University of London](https://london.ac.uk). Specifically, I am studying:
 
 * St. John's College
   * Double-Major in Philosophy and History of Science
