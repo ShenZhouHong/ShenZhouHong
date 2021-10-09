@@ -25,7 +25,13 @@ I'm a Philosophy and Computer Science student, completing a BA in Philosophy at 
 * University of London
   * Artificial Intelligence & Machine Learning
 
-I'm interested in the intersection of technology and philosophy, and that of artificial intelligence in a natural world.
+I'm interested in Artificial Intelligence, and more broadly, on the intersection between technology, philosophy, and [humanity as a whole](https://en.wikipedia.org/wiki/The_Phenomenology_of_Spirit).
+
+### My Mission ([τέλος](https://en.wikipedia.org/wiki/Telos))
+
+Artificial Intelligence is an emerging technology with tremendous potential to affect the world, both for better and for worse. I am pursuing a career in AI research, in order to offer a unique, interdisciplinary perspective to the AI community. **I hope to combine both rigorous technical skills and a strong, philosophical background** — to advance the state of AI research and safety.
+
+Ultimately, our technological achievements are only solutions to human problems. And in order to understand human problems, we have to understand human nature. Such is the [pursuit of Philosophy](https://www.loebclassics.com/view/plato_philosopher-meno/1924/pb_LCL165.265.xml).
 
 ![I'm thinking about](thinking-about.png)
 
