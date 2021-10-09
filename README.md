@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 I'm a Philosophy and Computer Science student, completing a BA in the Liberal Arts at [St. John's College](https://www.sjc.edu/), and a BSc in Computer Science at the [University of London](https://london.ac.uk). Specifically, I am studying:
 
-* St. John's College
+* **St. John's College**
   * Double-Major in Philosophy and History of Science
   * Double-Minor in Classics and Comparative Literature
-* University of London
+* **University of London**
   * Artificial Intelligence & Machine Learning
 
 I'm interested in Artificial Intelligence, and more broadly, on the intersection between technology, philosophy, and [humanity as a whole](https://en.wikipedia.org/wiki/The_Phenomenology_of_Spirit).
