@@ -27,7 +27,7 @@ I'm a Philosophy and Computer Science student, completing a BA in Philosophy at 
 
 I'm interested in the intersection of technology and philosophy, and that of artificial intelligence in a natural world.
 
-![I'm thinking about](thinking-about-1.png)
+![I'm thinking about](thinking-about.png)
 
 ### Here are some questions I'm exploring:
 
