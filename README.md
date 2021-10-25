@@ -43,6 +43,12 @@ Ultimately, our technological achievements are only solutions to human problems.
 
 * What can be done about the nature of online discourse, to make conversations less [eristic](https://en.wikipedia.org/wiki/Eristic) ([ἐριστικός](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3De\)ristiko%2Fs)), and more [dialectic](https://en.wikipedia.org/wiki/Dialectic)?
 
+### Here are some projects that I am working on
+
+* Declarative Operating Systems and Package Management using [NixOS](https://nixos.org/).
+* Implementing Evolutionary (Genetic) Algorithms, with the [Pybullet](https://github.com/bulletphysics/bullet3) Sim.
+* Self-Hosting my personal digital infrastructure, with [Proxmox VE](https://www.proxmox.com/en/) Hypervisor
+
 ![Let's have a dialogue](dialogue.png)
 
 ### Want to contact me? Here's how.
