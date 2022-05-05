@@ -25,7 +25,9 @@ I'm a Philosophy and Computer Science student, completing a BA in the Liberal Ar
 * **University of London**
   * Artificial Intelligence & Machine Learning
 
-I'm interested in Artificial Intelligence, and more broadly, on the intersection between technology, philosophy, and [humanity as a whole](https://en.wikipedia.org/wiki/The_Phenomenology_of_Spirit).
+I'm interested in Artificial Intelligence, and more broadly, on the intersection between technology, philosophy, and [humanity as a whole](https://en.wikipedia.org/wiki/The_Phenomenology_of_Spirit). Interested in my thoughts? Check our my current reading list- it's a good measure of what's on my mind currently:
+
+* [**Shen's Reading List**](https://shen.hong.io/reading/)
 
 ### My Mission ([τέλος](https://en.wikipedia.org/wiki/Telos))
 
